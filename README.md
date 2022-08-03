@@ -2,7 +2,7 @@
  Eu sou o Rossini Fonseca!!
  
 
-- 🔭 Desenvolvedor de software
+- 🔭 Desenvolvedor de Software
 
 
 <div align="center">
