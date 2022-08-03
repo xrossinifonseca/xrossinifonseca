@@ -2,8 +2,8 @@
  Eu sou o Rossini Fonseca
  
 
-- 🔭Desenvolvedor Front-end
-- 🌱 Estudando Javascript
+- 🔭 Desenvolvedor de software
+
 
 <div align="center">
   <a href="https://github.com/xrossinifonseca">
