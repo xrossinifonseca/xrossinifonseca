@@ -1,5 +1,5 @@
  Olá,
- Eu sou o Rossini Fonseca!!
+ Eu sou Rossini Fonseca!!
  
 
 - 🔭 Desenvolvedor de Software
