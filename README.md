@@ -3,7 +3,8 @@
  
 
 - 🔭 Desenvolvedor de Software
--Javascript|React|NodeJs|Html|Css
+
+ 
 
 
 <div align="center">
