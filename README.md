@@ -3,6 +3,7 @@
  
 
 - 🔭 Desenvolvedor de Software
+- https://portfolio-rossini.vercel.app/
 
  
 
