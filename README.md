@@ -19,6 +19,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&labelColorr=0D1117&textColor=0D1117)&nbsp;
 ![MongoDb](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&&labelColorr=0D1117&textColor=0D1117)&nbsp;
+![Mysql](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=0D1117&textColor=0D1117)&nbsp;
+
 
 
 
