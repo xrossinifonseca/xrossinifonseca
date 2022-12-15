@@ -15,7 +15,7 @@
 
 
 
-  <img width="20%" height="20%" src="https://media.tenor.com/GOyBTNdQb4AAAAAd/scaler-create-impact.gif" /> 
+  <img width="30%" height="30%" src="https://media.tenor.com/GOyBTNdQb4AAAAAd/scaler-create-impact.gif" /> 
 
 
 
