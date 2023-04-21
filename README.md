@@ -9,9 +9,7 @@
 </div>
 
 
-- 🌱 I’m currently learning **Nodejs, Mysql, Express**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-rossini.vercel.app/](https://portfolio-rossini.vercel.app/)
 
 
 
@@ -28,6 +26,7 @@
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Express](	https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&labelColorr=0D1117&textColor=0D1117)&nbsp;
 ![MongoDb](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&&labelColorr=0D1117&textColor=0D1117)&nbsp;
 ![Mysql](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=0D1117&textColor=0D1117)&nbsp;
