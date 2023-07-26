@@ -30,6 +30,9 @@
 ![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&labelColorr=0D1117&textColor=0D1117)&nbsp;
 ![MongoDb](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&&labelColorr=0D1117&textColor=0D1117)&nbsp;
 ![Mysql](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=0D1117&textColor=0D1117)&nbsp;
+![php](https://img.shields.io/badge/php-0D1117?style=for-the-badge&logo=php&logoColor=0D1117&textColor=0D1117)&nbsp;
+![laravel](https://img.shields.io/badge/laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=0D1117&textColor=0D1117)&nbsp;
+
 
 
 
