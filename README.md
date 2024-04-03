@@ -32,6 +32,8 @@
 ![Mysql](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=0D1117&textColor=0D1117)&nbsp;
 ![php](https://img.shields.io/badge/php-0D1117?style=for-the-badge&logo=php&logoColor=0D1117&textColor=0D1117)&nbsp;
 ![laravel](https://img.shields.io/badge/laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=0D1117&textColor=0D1117)&nbsp;
+![Ruby](https://img.shields.io/badge/ruby-0D1117?style=for-the-badge&logo=ruby&logoColor=0D1117&textColor=0D1117)&nbsp;
+
 
 
 
